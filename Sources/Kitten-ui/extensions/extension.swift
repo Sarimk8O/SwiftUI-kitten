@@ -37,9 +37,9 @@ extension Color {
     
     
     public static var primary: Color { return Color.blue }
-    public static var success: Color { return Color(hex:"#64DD17") }
-    public static var info: Color { return Color(hex:"#029bee") }
-    public static var warning: Color { return Color(hex:"#eecb02") }
-    public static var danger: Color { return Color(hex:"#ee0225") }
+    public static var success: Color { return Color(hex:"#94CE16") }
+    public static var info: Color { return Color(hex:"#01BDC6") }
+    public static var warning: Color { return Color(hex:"#F9870C") }
+    public static var danger: Color { return Color(hex:"#E03131") }
     public static var basic: Color { return Color(hex:"#BDBDBD") }
 }
